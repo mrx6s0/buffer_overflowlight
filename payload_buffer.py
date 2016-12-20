@@ -24,7 +24,7 @@ def sender(host, port):
          print ('Exiting...\n')
 
 if __name__ == '__main__':
-    carg = argparse.ArgumentParser(description='Buffer overflow, I found it in a magazine', epilog='Use me, but be carefull')
+    carg = argparse.ArgumentParser(description='Buffer overflow, light thing', epilog='Use me, but be carefull')
 
 
 
